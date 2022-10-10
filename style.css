@@ -1,0 +1,13 @@
+#pic {
+    width: 200px;
+    height: auto
+}
+
+#name {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.bg {
+    background-color: lightgrey;
+}
